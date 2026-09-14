@@ -2,6 +2,24 @@
 
 # Dibs
 
+<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<div align="center">
+
+![dibs — 3D](assets/3d-hero.svg)
+
+**made by [Mayank Bhaskar](https://github.com/qtjg)** · ![lang](https://img.shields.io/badge/lang-Code-8b5cf6?style=flat&labelColor=0d1117) ![stars](https://img.shields.io/github/stars/qtjg/dibs?style=flat&labelColor=0d1117&color=8b5cf6)
+
+### 🧊 3D View
+
+![dibs — isometric stack](assets/3d-stack.svg)
+
+*Floating isometric render — layers hover, data particles stream, shine sweeps.*
+
+</div>
+
+---
+🩺 **New tool — `repo-pulse`**: instant git pulse (28-day heat bars, hot files, contributors). Run: `python3 tools/repo_pulse.py`
+
 [![CI](https://github.com/agenxy/dibs/actions/workflows/ci.yml/badge.svg)](https://github.com/agenxy/dibs/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/agenxy/dibs?sort=semver)](https://github.com/agenxy/dibs/releases/latest)
 [![Go Reference](https://pkg.go.dev/badge/github.com/agenxy/dibs.svg)](https://pkg.go.dev/github.com/agenxy/dibs)
