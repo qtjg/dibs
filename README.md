@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/3d-banner.svg" alt="dibs 3D banner" width="880" />
+</p>
+
 <img src="docs/icon.svg" width="72" height="72" alt="">
 
 # Dibs
@@ -848,6 +852,22 @@ to argue with. [CONTRIBUTING.md](CONTRIBUTING.md) says what a patch needs here,
 [SUPPORT.md](SUPPORT.md) says where to ask, and
 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) is the short version of "argue with the
 work, not the person".
+
+
+---
+
+## 🧊 3D Visuals
+
+<p align="center">
+  <img src="docs/assets/3d-langs.svg" alt="dibs — 3D language stack" width="800" />
+</p>
+
+Isometric 3D language stack computed from live GitHub language stats.
+Regenerate the graphics any time with the built-in generator — stdlib only, zero dependencies:
+
+```bash
+python tools/generate_3d_assets.py
+```
 
 ## License
 
